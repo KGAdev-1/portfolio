@@ -174,7 +174,7 @@
       padding: 6px 2px;
       transition: color .25s ease;
     }
-    .is-embedded .nav-links a { color: color-mix(in oklab, var(--white) 92%, var(--cream) 8%); }
+    .is-embedded .nav-links a { color: color-mix(in oklab, var(--dark-text) 92%, var(--cream) 8%); }
     .is-solid .nav-links a { color: var(--dark-text); }
     .nav-links a::after {
       content: "";
@@ -282,7 +282,7 @@
         }
 
         .portfolio-title {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Warnes', cursive;
             font-size: 8rem;
             font-weight: 900;
             line-height: 0.9;
@@ -391,7 +391,7 @@
             position: relative;
             background: var(--secondary-green);
             border-radius: 20px;
-            height: 500px;
+            height: 80vh;
             overflow: hidden;
         }
 
@@ -422,7 +422,7 @@
         }
 
         .about-text h2 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Warnes', cursive;
             font-size: 4rem;
             font-weight: 700;
             margin-bottom: 30px;
@@ -464,7 +464,7 @@
         }
 
         .contact-info h3 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Warnes', cursive;
             font-size: 2rem;
             margin-bottom: 20px;
         }
@@ -484,7 +484,7 @@
 
         /* Education & Experience Section */
         .experience {
-            padding: 120px 0;
+            padding: 4em 0;
             background: var(--light-gray);
         }
 
@@ -495,9 +495,9 @@
         }
 
         .experience-column h3 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Warnes', cursive;
             font-size: 3rem;
-            color: var(--accent-orange);
+            color: var(--dark-text);
             margin-bottom: 40px;
             font-weight: 700;
         }
@@ -537,7 +537,7 @@
 
         /* Skills Section */
         .skills {
-            padding: 120px 0;
+            padding: 4em 0;
             background: var(--cream);
         }
 
@@ -548,7 +548,7 @@
         }
 
         .skills-column h3 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Warnes', cursive;
             font-size: 2.5rem;
             margin-bottom: 40px;
             color: var(--dark-text);
@@ -588,7 +588,7 @@
         }
 
         .languages h4 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Warnes', cursive;
             font-size: 1.8rem;
             margin-bottom: 20px;
         }
@@ -608,12 +608,12 @@
 
         /* Projects Section */
         .projects {
-            padding: 120px 0;
+            padding: 4em 0;
             background: var(--light-gray);
         }
 
         .section-title {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Warnes', cursive;
             font-size: 4rem;
             text-align: center;
             margin-bottom: 80px;
@@ -727,7 +727,7 @@
         }
 
         .thank-you h2 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Warnes', cursive;
             font-size: 5rem;
             margin-bottom: 30px;
             color: var(--dark-text);
