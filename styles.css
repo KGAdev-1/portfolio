@@ -917,7 +917,7 @@
         color: var(--dark-text);
     }
     .dark-theme .experience-column h3 {
-        color: var(--accent-orange);
+        color: var(--dark-text-color);
     }
     .dark-theme .experience-description {
         color: var(--dark-gray-text);
